@@ -9,7 +9,7 @@ Montréal boasts an exceptionally high concentration of expertise in the area of
 
 On other hand, Montreal, on June 2006, Montréal was officially designated a UNESCO City of Design, joining the UNESCO Creative Cities Network (https://en.unesco.org/creative-cities/).
 
-In this project, we will pool resources to build GoMontreal:
+In this project, we will pool resources to build MontrealGo:
 
 1. To showcase the AI technologies made in Montreal.
 2. To promote the technological exchanges between AI companies in Montreal and around the world
